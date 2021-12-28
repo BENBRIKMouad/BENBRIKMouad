@@ -1,6 +1,6 @@
   #                                      𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋
 
-I'm Mouad a software engineer, for me coding is not work is my passion, my portal to endless posibilities where you can express your idea and dreams!
+I'm Mouad a software engineer, for me coding is not work is my passion, my portal to endless posibilities where I can express my idea and dreams!
 I take great care in the experience, architecture, and code quality of the things I build.
 I am an open-source lover.
 
