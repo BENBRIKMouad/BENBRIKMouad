@@ -1,14 +1,15 @@
   #                                      𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋
 
-I'm Mouad a software engineer, for me coding is not work is my passion, my portal to endless posibilities where I can express my idea and dreams!
-I take great care in the experience, architecture, and code quality of the things I build.
-I am an open-source lover.
+I'm Mouad a software engineer, for me coding is not work is my passion, my portal to endless posibilities where I can express my idea and dreams!</br>
+I take great care in the experience, architecture, and code quality of the things I build.</br>
+I am an open-source lover.</br>
+ ## 🤔 Are you stuck ? I am more than happy to help you.</br>
 
- ## 🤔 Are you stuck ? I am more than happy to help you.
 
-| My Github Stats | List of My favorite Languages |
-| --- | --- |
-| ![](https://github-readme-stats.vercel.app/api?username=BENBRIKMouad&show_icons=true&theme=github_dark&count_private=true) | ![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BENBRIKMouad&show_icons=true&theme=gotham&count_private=true&layout=compact) |
+ ![Stats](https://github-readme-stats.vercel.app/api?username=BENBRIKMouad&show_icons=true&theme=github_dark&count_private=true) 
+ 
+ 
+ ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BENBRIKMouad&show_icons=true&theme=gotham&count_private=true&layout=compact) 
 
 <!--
 **BENBRIKMouad/BENBRIKMouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
